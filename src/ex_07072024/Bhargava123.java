@@ -1,2 +1,5 @@
-package ex_07072024;public class Bhargava123 {
+package ex_07072024;
+
+public class Bhargava123 {
+
 }
