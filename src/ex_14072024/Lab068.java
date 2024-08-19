@@ -10,6 +10,6 @@ public class Lab068 {
 
 
         // SCP nad Heap - JVM
-
+ 
     }
 }
