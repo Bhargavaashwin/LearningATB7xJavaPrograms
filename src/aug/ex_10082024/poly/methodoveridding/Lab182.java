@@ -1,4 +1,4 @@
-package aug.ex_10082024.poly.methodoverriding;
+package aug.ex_10082024.poly.methodoveridding;
 
 public class Lab182 {
     // Method overidding | Runtime Poly
